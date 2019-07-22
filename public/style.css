@@ -1,0 +1,18 @@
+
+
+.block {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 400px;
+    background: red;
+    display: flex;
+}
+
+.sub-block {
+    width: 500px;
+    height: 100px;
+    background: blue;
+    margin: 10px;
+}
